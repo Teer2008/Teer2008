@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Teer2008
 - 👀 I’m interested in Back End Programming.
 - 🌱 I’m currently learning how to make an Operation System from scratch.
-- 💞️ I’m looking to collaborate on Python/C based back end projects.
+- 💞️ I’m looking to collaborate on Python/C based projects.
 - 📫 How to reach me DISCORD: Teer2008#353593
 
 <!---
